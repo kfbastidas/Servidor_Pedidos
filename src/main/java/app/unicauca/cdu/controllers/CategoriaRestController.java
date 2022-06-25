@@ -56,7 +56,7 @@ public class CategoriaRestController {
 					result.add(escenario);
 				}
 			}
-		}
+		} 
         return result;
     }
     
